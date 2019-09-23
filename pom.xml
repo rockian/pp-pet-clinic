@@ -14,7 +14,7 @@
     </parent>
     <groupId>com.afwin</groupId>
     <artifactId>pp-pet-clinic</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3-SNAPSHOT</version>
     <name>pp-pet-clinic</name>
     <description>My own version of the spring pet clinic application</description>
 
@@ -44,6 +44,6 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/rockian/pp-pet-clinic.git</developerConnection>
-      <tag>pp-pet-clinic-0.0.2</tag>
+      <tag>HEAD</tag>
   </scm>
 </project>
